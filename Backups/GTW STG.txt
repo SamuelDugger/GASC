@@ -1,0 +1,4 @@
+STGSRVGTW401	
+10.193.65.121	ATI.CashGateway.Service
+STGSRVGTW405	
+10.193.65.122	ATI.NonCashGateway.Service
