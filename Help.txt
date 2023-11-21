@@ -1,0 +1,57 @@
+#########################################
+#                                       #
+#  Author: Samuel Dugger                #
+#  Date:   2023-03-27                   #
+#                                       #
+#########################################
+
+
+This program's purpose is to actively monitor services on remote servers/computers. It also provides the ability to control the services.
+
+The program uses your Windows credentials for access to change services. An error about State Code is returned when you do not have access to read/change a service.
+
+If you want to quickly check the status of a service at the bottom of the list, select it and hit the Enter key (which is the same as clicking the Refresh button.) 
+This works with any amount of services selected.
+
+To make changes to a service, the application needs to be ran as an admin. (right click and select run as admin)
+
+Put this on your desktop first and then if you'd like to move it somewhere else you can.
+
+If you copy it directly to you C drive or Programs (x86) folder directly you will need to give yourself full control permissions.
+
+To make the group buttons uncheck properly, it's best to use the Clear Selection button.
+
+Buttons under the "Controller" section will affect ALL selected services.
+
+If you load a new set of services and forgot to save your current one, you can load the "Last_Loadout_Backup" list. This backup is always the last list used before the latest load.
+
+
+Editing the list of services manually:
+
+	Services.txt is in a specific format, and if you don't use the right format the app will crash when attempting to open.
+	If you break the program, try copying the backup of Services.txt to the Monitor directory.
+	
+	There are two types of entries to use in Services.txt:
+		1. Group name entry
+		2. Server/service entry
+
+	Groups are for visual aid but also allow groups of services to be selected at once.
+	When creating or altering a group name, you can use any letters,numbers, or special characters except {TAB}.
+	The format for group name is simply the group name, followed by a single {TAB} character, and then a new line.
+	Some examples:
+	"Group 1	"
+	"Headcount services	"
+	The double quote characters are just for demonstration. They're not required.
+	Notice the single {TAB} character after the names.
+	All server/service entries UNDERNEATH a group header will be considered in it's group.
+
+	Server/service entries are similar. The first property is the server. It can be an IP address or a DNS name. 
+	What network you're on will determine whether you need to fully qualify the name or not.
+	Enter a {TAB} character after the server. Then provide the exact service name. It is not case-sensitive.
+	End with a new line.
+	Some examples:
+	"DCRSRVJPF201	ati.headcount.service"
+	"10.1.35.35	ATI.watchDog.service"
+
+	
+	Make sure you do NOT put an extra blank line at the end of the file.

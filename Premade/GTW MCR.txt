@@ -1,0 +1,7 @@
+MCRSRVGTW401	
+10.194.10.120	ATI.CashGateway.Service
+MCRSRVGTW403	
+10.194.10.121	ATI.Oasis.PitPrinter.Service
+10.194.10.121	ATI.NonCashGateway.Service
+MCRSRVGTW405	
+10.194.10.122	ATI.NonCashGateway.Service

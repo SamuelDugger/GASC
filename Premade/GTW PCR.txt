@@ -1,0 +1,9 @@
+PCRSRVGTW401	
+10.192.76.121	ATI.CashGateway.Service
+PCRSRVGTW403	
+10.192.76.122	ATI.Oasis.PitPrinter.Service
+10.192.76.122	ATI.NonCashGateway.Service
+PCRSRVGTW405	
+10.192.76.123	ATI.NonCashGateway.Service
+PCRSRVGTW205	
+10.192.76.236	Open_Gateway_Service

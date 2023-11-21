@@ -1,0 +1,28 @@
+DCRSRVGTW401	
+10.203.52.120	ATI.CashGateway.Service
+10.203.52.120	ATI.NonCashGateway.Service
+DCRSRVGTW402	
+10.203.52.121	ATI.CashGateway.Service
+DCRSRVGTW403	
+10.203.52.122	ATI.Oasis.PitPrinter.Service
+10.203.52.122	ATI.NonCashGateway.Service
+DCRSRVGTW404	
+10.203.52.123	ATI.CashGateway.Service
+DCRSRVGTW405	
+10.203.52.124	ATI.NonCashGateway.Service
+DCRSRVGTW407	
+10.203.52.126	ATI.CashGateway.Service
+DCRSRVGTW408	
+10.203.52.127	ATI.CashGateway.Service
+DCRSRVGTW409	
+10.203.52.128	ATI.CashGateway.Service
+DCRSRVGTW410	
+10.203.52.129	ATI.CashGateway.Service
+DCRSRVGTW411	
+10.203.52.201	ATI.CashGateway.Service
+DCRSRVGTW412	
+10.203.52.202	ATI.CashGateway.Service
+DCRSRVGTW413	
+10.203.52.203	ATI.CashGateway.Service
+DCRSRVGTW205	
+10.1.36.236	Open_Gateway_Service

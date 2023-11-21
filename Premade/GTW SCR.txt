@@ -1,0 +1,4 @@
+GCRSRVGTW401	
+10.194.152.126	ATI.CashGateway.Service
+GCRSRVGTW405	
+10.194.152.128	ATI.NonCashGateway.Service
