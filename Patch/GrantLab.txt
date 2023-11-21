@@ -1,0 +1,43 @@
+Priority-0	
+GCRPLBPRM302.choctawcasinos.local	SchedulerService
+GCRPLBPRM304.choctawcasinos.local	ATI.BlackBart.Service
+GCRPLBPRM304.choctawcasinos.local	ATI.CountInterface.Service
+GCRPLBPRM303.choctawcasinos.local	ATI.CashGateway.Service
+GCRPLBPRM304.choctawcasinos.local	ATI.Oasis.PitPrinter.Service
+GCRPLBPRM304.choctawcasinos.local	ATI.NonCashGateway.Service
+GCRPLBPRM304.choctawcasinos.local	ATI.Headcount.Service
+GCRPLBPRM304.choctawcasinos.local	ATI.JackpotFill.Service
+GCRPLBPRM303.choctawcasinos.local	ATI.Quickets.Service
+GCRPLBPRM303.choctawcasinos.local	ATI.SpeedMedia.MidTier.Service
+GCRPLBPRM303.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+Priority-1	
+GCRPLBMMT301.choctawcasinos.local	ATI.Watchdog.Service
+Priority-2	
+GCRPLBPRM301.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+GCRPLBPRM302.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+Priority-3	
+GCRPLBMMT301.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+GCRPLBMMT302.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+Priority-4	
+GCRPLBMMT301.choctawcasinos.local	ATI.Meter.Service
+GCRPLBMMT302.choctawcasinos.local	ATI.Meter.Service
+Priority-5	
+GCRPLBPRM301.choctawcasinos.local	ATI.Settings.Service
+GCRPLBPRM302.choctawcasinos.local	ATI.Settings.Service
+Priority-6	
+GCRPLBPRM301.choctawcasinos.local	ATI.PatronBalance.Service
+GCRPLBPRM302.choctawcasinos.local	ATI.PatronBalance.Service
+Priority-7	
+GCRPLBPRM301.choctawcasinos.local	ATI.Patron.Service
+GCRPLBPRM302.choctawcasinos.local	ATI.Patron.Service
+Priority-8	
+GCRPLBNCN301.choctawcasinos.local	IIS
+GCRPLBNCN302.choctawcasinos.local	IIS
+Priority-9	
+GCRPLBRMQ301.choctawcasinos.local	RabbitMQ
+GCRPLBRMQ302.choctawcasinos.local	RabbitMQ
+Priority-10	
+GCRPLBPRM301.choctawcasinos.local	ConfigurationService
+Priority-11	
+GCRPLBPRM301.choctawcasinos.local	ATI.OASIS.Security.Service
+GCRPLBPRM302.choctawcasinos.local	ATI.OASIS.Security.Service

@@ -1,0 +1,3 @@
+Priority-0	
+DCESRVHAPX.choctawcasinos.local	W3SVC
+DCESRVHAPX.choctawcasinos.local	WAS

@@ -1,0 +1,47 @@
+Priority-0	
+MCRDEVPRM302.choctawcasinos.local	SchedulerService
+MCRDEVPRM304.choctawcasinos.local	ATI.BlackBart.Service
+MCRDEVPRM304.choctawcasinos.local	ATI.CountInterface.Service
+MCRDEVPRM303.choctawcasinos.local	ATI.CashGateway.Service
+MCRDEVPRM304.choctawcasinos.local	ATI.Oasis.PitPrinter.Service
+MCRDEVPRM304.choctawcasinos.local	ATI.NonCashGateway.Service
+MCRDEVPRM304.choctawcasinos.local	ATI.Headcount.Service
+MCRDEVPRM304.choctawcasinos.local	ATI.JackpotFill.Service
+MCRDEVPRM303.choctawcasinos.local	ATI.Quickets.Service
+MCRDEVPRM303.choctawcasinos.local	ATI.SpeedMedia.MidTier.Service
+MCRDEVPRM303.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+Priority-1	
+MCRDEVMMT301.choctawcasinos.local	ATI.Watchdog.Service
+Priority-2	
+MCRDEVPRM301.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+MCRDEVPRM302.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+WCTDEVPOL301.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+WCTDEVPOL302.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+Priority-3	
+MCRDEVMMT301.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+MCRDEVMMT302.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+Priority-4	
+MCRDEVMMT301.choctawcasinos.local	ATI.Meter.Service
+MCRDEVMMT302.choctawcasinos.local	ATI.Meter.Service
+Priority-5	
+MCRDEVPRM301.choctawcasinos.local	ATI.Settings.Service
+MCRDEVPRM302.choctawcasinos.local	ATI.Settings.Service
+Priority-6	
+MCRDEVPRM301.choctawcasinos.local	ATI.PatronBalance.Service
+MCRDEVPRM302.choctawcasinos.local	ATI.PatronBalance.Service
+Priority-7	
+MCRDEVPRM301.choctawcasinos.local	ATI.Patron.Service
+MCRDEVPRM302.choctawcasinos.local	ATI.Patron.Service
+Priority-8	
+MCRDEVNCN301.choctawcasinos.local	IIS
+MCRDEVNCN302.choctawcasinos.local	IIS
+Priority-9	
+MCRDEVRMQ301.choctawcasinos.local	RabbitMQ
+MCRDEVRMQ302.choctawcasinos.local	RabbitMQ
+WCTDEVRMQ301.choctawcasinos.local	RabbitMQ
+WCTDEVRMQ302.choctawcasinos.local	RabbitMQ
+Priority-10	
+MCRDEVPRM301.choctawcasinos.local	ConfigurationService
+Priority-11	
+MCRDEVPRM301.choctawcasinos.local	ATI.OASIS.Security.Service
+MCRDEVPRM302.choctawcasinos.local	ATI.OASIS.Security.Service

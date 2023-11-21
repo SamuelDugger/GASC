@@ -1,0 +1,60 @@
+Priority-0	
+PCRPLBNCN301.choctawcasinos.local	W3SVC
+PCRPLBNCN302.choctawcasinos.local	W3SVC
+GCRPLBNCN301.choctawcasinos.local	W3SVC
+GCRPLBNCN302.choctawcasinos.local	W3SVC
+BCRPLBNCN301.choctawcasinos.local	W3SVC
+BCRPLBNCN302.choctawcasinos.local	W3SVC
+Priority-1	
+PCRPLBNCN301.choctawcasinos.local	WAS
+PCRPLBNCN302.choctawcasinos.local	WAS
+GCRPLBNCN301.choctawcasinos.local	WAS
+GCRPLBNCN302.choctawcasinos.local	WAS
+BCRPLBNCN301.choctawcasinos.local	WAS
+BCRPLBNCN302.choctawcasinos.local	WAS
+Priority-2	
+DCESRVHLO101.choctawcasinos.local	Kiosk_Gateway_Instance
+Priority-3	
+DCETSTOLG501.choctawcasinos.local	Open_Gateway_Service
+Priority-4	
+DCESRVHLO101.choctawcasinos.local	W3SVC
+Priority-5	
+DCESRVHLO101.choctawcasinos.local	WAS
+Priority-6	
+DCESRVHLO101.choctawcasinos.local	UniMerge_Service_Instance
+Priority-7	
+DCESRVHLO102.choctawcasinos.local	W3SVC
+Priority-8	
+DCESRVHLO102.choctawcasinos.local	WAS
+Priority-9	
+DCESRVHLO101.choctawcasinos.local	Synchronizer_Service_Instance_1
+Priority-10	
+DCESRVHLO101.choctawcasinos.local	Service_Monitor_Instance
+Priority-11	
+DCESRVHLO101.choctawcasinos.local	Delivery_Service_Instance_1
+Priority-12	
+DCESRVHLO101.choctawcasinos.local	Patron_Logix_Instance_1
+DCESRVHLO101.choctawcasinos.local	Patron_Logix_Instance_2
+DCESRVHLO101.choctawcasinos.local	Patron_Logix_Instance_3
+DCESRVHLO101.choctawcasinos.local	Patron_Logix_Instance_4
+Priority-13	
+DCESRVHLO101.choctawcasinos.local	Rewards_Service_Instance_1
+DCESRVHLO101.choctawcasinos.local	Rewards_Service_Instance_2
+DCESRVHLO101.choctawcasinos.local	Rewards_Service_Instance_3
+DCESRVHLO101.choctawcasinos.local	Rewards_Service_Instance_4
+Priority-14	
+DCESRVHLO101.choctawcasinos.local	RewardsP_Service_Instance_1
+DCESRVHLO101.choctawcasinos.local	RewardsP_Service_Instance_2
+DCESRVHLO101.choctawcasinos.local	RewardsP_Service_Instance_3
+DCESRVHLO101.choctawcasinos.local	RewardsP_Service_Instance_4
+Priority-15	
+DCESRVHLO101.choctawcasinos.local	OASIS_LOYALTY_Bus_service
+Priority-16	
+DCESRVHLO101.choctawcasinos.local	RabbitMQ
+Priority-17	
+DCESRVHLO103.choctawcasinos.local	MSSQLSERVER
+DCESRVHLO103.choctawcasinos.local	"SQLsafe Backup Service"
+DCESRVHLO103.choctawcasinos.local	"SQLsafe Filter Service"
+DCESRVHLO103.choctawcasinos.local	SQLSafeOLRService
+DCESRVHLO103.choctawcasinos.local	SQLSERVERAGENT
+DCESRVHLO103.choctawcasinos.local	SQLWriter

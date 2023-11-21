@@ -1,0 +1,48 @@
+Priority-0	
+BCRSRVSMC401.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+BCRSRVSMC402.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+ICRSRVSMC401.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+ITPSRVSMC401.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+BCRSRVSMA401.choctawcasinos.local	ATI.SpeedMedia.MidTier.Service
+BCRSRVBLB401.choctawcasinos.local	ATI.CountInterface.Service
+BCRSRVBLB401.choctawcasinos.local	ATI.BlackBart.Service
+BCRSRVJPF401.choctawcasinos.local	ATI.Headcount.Service
+BCRSRVJPF401.choctawcasinos.local	ATI.JackpotFill.Service
+BCRSRVQKT401.choctawcasinos.local	ATI.Quickets.Service
+BCRSRVGTW401.choctawcasinos.local	ATI.CashGateway.Service
+BCRSRVGTW403.choctawcasinos.local	ATI.NonCashGateway.Service
+BCRSRVGTW405.choctawcasinos.local	ATI.NonCashGateway.Service
+BCRSRVGTW403.choctawcasinos.local	ATI.Oasis.PitPrinter.Service
+BCRSRVPSC402.choctawcasinos.local	SchedulerService
+Priority-1	
+BCRSRVMMT401.choctawcasinos.local	ATI.Watchdog.Service
+Priority-2	
+BCRSRVPOL401.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+BCRSRVPOL402.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+Priority-3	
+BCRSRVMMT401.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+BCRSRVMMT402.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+Priority-4	
+BCRSRVMMT401.choctawcasinos.local	ATI.Meter.Service
+BCRSRVMMT402.choctawcasinos.local	ATI.Meter.Service
+Priority-5	
+BCRSRVPSC401.choctawcasinos.local	ATI.Settings.Service
+BCRSRVPSC402.choctawcasinos.local	ATI.Settings.Service
+Priority-6	
+BCRSRVPSC401.choctawcasinos.local	ATI.PatronBalance.Service
+BCRSRVPSC402.choctawcasinos.local	ATI.PatronBalance.Service
+Priority-7	
+BCRSRVPSC401.choctawcasinos.local	ATI.Patron.Service
+BCRSRVPSC402.choctawcasinos.local	ATI.Patron.Service
+Priority-8	
+BCRSRVNCN401.choctawcasinos.local	IIS
+BCRSRVNCN402.choctawcasinos.local	IIS
+BCRSRVNCN403.choctawcasinos.local	IIS
+Priority-9	
+BCRSRVRMQ402.choctawcasinos.local	RabbitMQ
+BCRSRVRMQ401.choctawcasinos.local	RabbitMQ
+Priority-10	
+BCRSRVPSC401.choctawcasinos.local	ConfigurationService
+Priority-11	
+BCRSRVPSC401.choctawcasinos.local	ATI.OASIS.Security.Service
+BCRSRVPSC402.choctawcasinos.local	ATI.OASIS.Security.Service

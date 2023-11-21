@@ -1,0 +1,7 @@
+#################################
+#   Written By: Samuel Dugger   #
+#################################
+
+Before running the Python script. 
+You will need to change the path files it is looking for to convert and where to export them to.
+You can choose to export it directly to the Patch folder and it will appear on the form.

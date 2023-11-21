@@ -1,0 +1,1 @@
+Run("ping -n 1 " & $CmdLine[1] & " > " & $CmdLine[2] & ".txt")

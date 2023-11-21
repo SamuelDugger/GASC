@@ -1,0 +1,45 @@
+Priority-0	
+MCRSRVSMC402.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+MCRSRVSMC401.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+WCTSRVSMC401.choctawcasinos.local	ATI.SpeedMedia.Cache.Service
+MCRSRVSMA401.choctawcasinos.local	ATI.SpeedMedia.MidTier.Service
+MCRSRVBLB401.choctawcasinos.local	ATI.CountInterface.Service
+MCRSRVBLB401.choctawcasinos.local	ATI.BlackBart.Service
+MCRSRVJPF401.choctawcasinos.local	ATI.Headcount.Service
+MCRSRVJPF401.choctawcasinos.local	ATI.JackpotFill.Service
+MCRSRVQKT401.choctawcasinos.local	ATI.Quickets.Service
+MCRSRVGTW401.choctawcasinos.local	ATI.CashGateway.Service
+MCRSRVGTW405.choctawcasinos.local	ATI.NonCashGateway.Service
+MCRSRVPSC402.choctawcasinos.local	SchedulerService
+Priority-1	
+MCRSRVMMT401.choctawcasinos.local	ATI.Watchdog.Service
+Priority-2	
+MCRSRVPOL401.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+MCRSRVPOL402.choctawcasinos.local	ATI.FloorLogix.Poller.Client.Service
+Priority-3	
+MCRSRVMMT401.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+MCRSRVMMT402.choctawcasinos.local	ATI.FloorLogix.Poller.MidTier.Service
+Priority-4	
+MCRSRVMMT401.choctawcasinos.local	ATI.Meter.Service
+MCRSRVMMT402.choctawcasinos.local	ATI.Meter.Service
+Priority-5	
+MCRSRVPSC401.choctawcasinos.local	ATI.Settings.Service
+MCRSRVPSC402.choctawcasinos.local	ATI.Settings.Service
+Priority-6	
+MCRSRVPSC401.choctawcasinos.local	ATI.PatronBalance.Service
+MCRSRVPSC402.choctawcasinos.local	ATI.PatronBalance.Service
+Priority-7	
+MCRSRVPSC401.choctawcasinos.local	ATI.Patron.Service
+MCRSRVPSC402.choctawcasinos.local	ATI.Patron.Service
+Priority-8	
+MCRSRVNCN401.choctawcasinos.local	IIS
+MCRSRVNCN402.choctawcasinos.local	IIS
+MCRSRVNCN403.choctawcasinos.local	IIS
+Priority-9	
+MCRSRVRMQ402.choctawcasinos.local	RabbitMQ
+MCRSRVRMQ401.choctawcasinos.local	RabbitMQ
+Priority-10	
+MCRSRVPSC401.choctawcasinos.local	ConfigurationService
+Priority-11	
+MCRSRVPSC401.choctawcasinos.local	ATI.OASIS.Security.Service
+MCRSRVPSC402.choctawcasinos.local	ATI.OASIS.Security.Service
