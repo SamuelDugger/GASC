@@ -5,6 +5,7 @@
 #                                       #
 #########################################
 
+You will need to create a folder in the root directory called CSV that will store all csv files you want to use for this tools with the format explained below.
 
 This program's purpose is to actively monitor services on remote servers/computers. It also provides the ability to control the services.
 
@@ -50,8 +51,8 @@ Editing the list of services manually:
 	Enter a {TAB} character after the server. Then provide the exact service name. It is not case-sensitive.
 	End with a new line.
 	Some examples:
-	"DCRSRVJPF201	ati.headcount.service"
-	"10.1.35.35	ATI.watchDog.service"
+	"MAINSRV100	service.name"
+	"10.1.1.1	service.name"
 
 	
 	Make sure you do NOT put an extra blank line at the end of the file.
