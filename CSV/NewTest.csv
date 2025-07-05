@@ -1,7 +1,0 @@
-#TYPE Selected.System.ServiceProcess.ServiceController,,,,
-MachineName,Name,DisplayName,Priority,IIS
-DCR01ITDLPTD512.choctawnation.com,ZoomCptService,Zoom Sharing Service,0,0
-DCR01ITDLPTD512.choctawnation.com,Themes,Themes,0,0
-DCR01ITDLPTD512.choctawnation.com,GoverlanAgent,Goverlan Service v10,1,0
-DCR01ITDLPTD512.choctawnation.com,AdobeARMservice,Adobe Acrobat Update Service,2,0
-DCR01ITDLPTD512.choctawnation.com,"""Apple Mobile Device Service""",Apple Mobile Device Service,2,0

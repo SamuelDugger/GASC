@@ -1,8 +1,0 @@
-Priority-0	
-DCR01ITDLPTD512.choctawnation.com	ZoomCptService
-DCR01ITDLPTD512.choctawnation.com	Themes
-Priority-1	
-DCR01ITDLPTD512.choctawnation.com	GoverlanAgent
-Priority-2	
-DCR01ITDLPTD512.choctawnation.com	AdobeARMservice
-DCR01ITDLPTD512.choctawnation.com	"Apple Mobile Device Service"
