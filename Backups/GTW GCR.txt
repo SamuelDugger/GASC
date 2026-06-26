@@ -1,9 +1,0 @@
-GCRSRVGTW401	
-10.194.152.126	ATI.CashGateway.Service
-GCRSRVGTW403	
-10.194.152.127	ATI.Oasis.PitPrinter.Service
-10.194.152.127	ATI.NonCashGateway.Service
-GCRSRVGTW405	
-10.194.152.128	ATI.NonCashGateway.Service
-GCRSRVGTW205	
-10.194.152.236	Open_Gateway_Service

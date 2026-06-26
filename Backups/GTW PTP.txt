@@ -1,4 +1,0 @@
-PTPSRVGTW401	
-10.193.69.121	ATI.CashGateway.Service
-PTPSRVGTW405	
-10.193.69.122	ATI.NonCashGateway.Service

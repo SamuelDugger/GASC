@@ -1,8 +1,0 @@
-#TYPE Selected.System.ServiceProcess.ServiceController,,,,
-MachineName,Name,DisplayName,Priority,IIS
-dur01itdlpt3c23.choctawnation.com,ZoomCptService,Zoom Sharing Service,0,0
-dur01itdlpt3c23.choctawnation.com,Themes,Themes,0,0
-dur01itdlpt3c23.choctawnation.com,GoverlanAgent,Goverlan Service v10,0,0
-DCR01ITDLPTD512.choctawnation.com,ZoomCptService,Zoom Sharing Service,0,0
-DCR01ITDLPTD512.choctawnation.com,Themes,Themes,0,0
-DCR01ITDLPTD512.choctawnation.com,GoverlanAgent,Goverlan Service v9,0,0
