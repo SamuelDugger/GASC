@@ -1,2 +1,0 @@
-Priority-0	
-BCRPLBPRM302.choctawcasinos.local	SchedulerService
